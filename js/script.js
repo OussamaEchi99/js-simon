@@ -13,8 +13,7 @@ for (let i = 0; i < numbers.length; i++) {
 }
 
 // Creo il timer della funzione
-setTimeout(userInput, 3000);
-
+setTimeout(userInput, 30000);
 
 let userNumber;
 // Creo la funzione che verrà chiamata al finire del timer
